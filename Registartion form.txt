@@ -383,3 +383,23 @@ public class SecondActivity extends AppCompatActivity {
 </LinearLayout>
 
 
+//strings.xml
+
+
+<resources>
+    <string name="app_name">registrationForm</string>
+    <string name="first_name">First Name</string>
+    <string name="ssc">SSC</string>
+    <string name="hsc">HSC</string>
+    <string name="be_btech">BE/BTech</string>
+    <string name="pg">PG</string>
+    <string name="select_bank">Select Bank</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="male1">Male</string>
+    <string name="female2">Female</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="select_qualification">Select Qualification</string>
+    <string name="submit">Submit</string>
+</resources>
