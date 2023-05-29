@@ -200,3 +200,26 @@ public class DisplayActivity extends AppCompatActivity {
         android:layout_marginTop="8dp" />
 </LinearLayout>
 
+
+
+//arrays.xml
+
+
+<resources>
+    <string-array name="berth_choices">
+        <item>Upper</item>
+        <item>Middle</item>
+        <item>Lower</item>
+        <item>Side Upper</item>
+        <item>Side Lower</item>
+    </string-array>
+</resources>
+
+
+
+//strings.xml
+
+
+<resources>
+    <string name="app_name">Railway Ticket Registration</string>
+</resources>
